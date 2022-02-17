@@ -1,0 +1,22 @@
+{
+  "name": "2ufsfmod09-portfolio_generator-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PetitsPoissons/2UFSFMOD09-portfolio_generator-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PetitsPoissons/2UFSFMOD09-portfolio_generator-NodeJS/issues"
+  },
+  "homepage": "https://github.com/PetitsPoissons/2UFSFMOD09-portfolio_generator-NodeJS#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
